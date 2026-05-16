@@ -1,0 +1,18 @@
+# RAG Reglamento - Dependencias
+# LLM y Embeddings (nuevo SDK unificado de Google)
+google-genai>=0.8.0
+
+# Vector Store
+chromadb>=0.5.0
+
+# Procesamiento de PDF
+pymupdf>=1.24.0
+
+# Interfaz gráfica
+streamlit>=1.35.0
+
+# Utilidades
+python-dotenv>=1.0.0
+tqdm>=4.66.0
+sentence-transformers>=3.0.0
+torchvision>=0.18.0
